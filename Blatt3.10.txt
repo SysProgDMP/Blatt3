@@ -1,6 +1,6 @@
 10)
 a)
-Ein Server ist ein Programm, das mit einem anderen dem Client, kommuniziert, 
+Ein Server ist ein Programm, das mit dem Client, kommuniziert, 
 um ihm Zugang zu einem Dienst zu verschaffen. Hierbei muss beachtet werden, 
 dass es sich beim Server um eine Rolle handelt, nicht um einen Computer an sich.
 Ein Computer kann gleichzeitig Server und Client sein.
